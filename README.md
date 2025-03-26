@@ -64,9 +64,10 @@ processingpdf(pdf_file, excel_file)
 - Can be improved for multi-line table cells.
 - Will not work on the encoded pdf files
 
-## ScreenShot of the ouptut
+## 📷 Screenshot of the Output
 
 Here is a preview of the extracted table:
 
-![Sample Output](output_example1.png)
-![Sample Output](output_example2.png)
+<img src="output_example1.png" alt="Sample Output 1" width="600">
+
+<img src="output_example2.png" alt="Sample Output 2" width="600">
