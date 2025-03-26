@@ -68,6 +68,6 @@ processingpdf(pdf_file, excel_file)
 
 Here is a preview of the extracted table:
 
+<img src="output/output_example1.PNG">
 <img src="output/output_example2.PNG">
-
-<img src="output_example2.png" alt="Sample Output 2" width="600">
+<img src="output/output_example3.PNG">
